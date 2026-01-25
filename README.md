@@ -28,7 +28,14 @@ Cyber Security Enthusiast • Bug Bounty Learner • Tech Explorer from India.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
 </div>
 
-<img align="right" height="150" src="https://i.redd.it/0066zy8oo9c51.gif" />
+<br>
+
+<div align="right">
+  <img height="160" src="https://i.redd.it/0066zy8oo9c51.gif" />
+</div>
+
+<br>
+
 
 <h2 align="left">Connect with Me</h2>
 
@@ -48,4 +55,4 @@ Cyber Security Enthusiast • Bug Bounty Learner • Tech Explorer from India.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake_gif](https://github.com/Jeeerryyy/Jeeerryyy/blob/output/snake.svg)
