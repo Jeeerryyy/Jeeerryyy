@@ -25,12 +25,12 @@ Cyber Security Enthusiast • Bug Bounty Learner • Tech Explorer from India.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  
 </div>
 
 <br>
 
-<div align="right">
+<div align="center">
   <img height="160" src="https://i.redd.it/0066zy8oo9c51.gif" />
 </div>
 
