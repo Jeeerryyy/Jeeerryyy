@@ -30,8 +30,8 @@ Cyber Security Enthusiast • Bug Bounty Learner • Tech Explorer from India.
 
 <br>
 
-<div align="center">
-  <img height="160" src="https://i.redd.it/0066zy8oo9c51.gif" />
+<div align="right">
+  <img height="160" src="https://c.tenor.com/tAPt4Po3vD8AAAAC/tenor.gif" />
 </div>
 
 <br>
