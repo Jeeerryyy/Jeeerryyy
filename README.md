@@ -1,7 +1,7 @@
 # Hey 👋 I'm Jerry
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/a8XXAqHC5tZYs/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://www.qqpr.com/ascii/img/ascii-1041.gif" width="400px" height="auto" style="border-radius: 10px;">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Jeeerryyy&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/>
