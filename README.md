@@ -1,6 +1,8 @@
 # Hey 👋 I'm Jerry
 
 <div align="center">
+  <img src="https://media2.giphy.com/media/a8XXAqHC5tZYs/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;">
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Jeeerryyy&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br/>
   <p align="center">
@@ -16,31 +18,12 @@
 
 ---
 
-### 📂 SECURITY_DOSSIER: [JERRY_PROJECT_01]
-
-```yaml
-  IDENTIFIER: Jeeerryyy
-  STATUS: ACTIVE_EXPLORATION
-  CORE_FOCUS: Vulnerability Research & IoT Security
-  LOCATION: India [IN]
-  TOOLS_IN_USE: [Kali, Nmap, BurpSuite, Metasploit, Wireshark]
-  CURRENT_CLEARANCE: Bug Bounty Learner
-  FAVORITE_PAYLOAD: 127.0.0.1 🏴‍☠️
-```
-
----
-
-### 🗺️ The Researcher Journey
-```mermaid
-flowchart LR
-    A[Tech Explorer] --> B(MERN Full Stack)
-    B --> C{Security Pivot}
-    C --> D[Cyber Security Enthusiast]
-    D --> E[Bug Bounty Hunter]
-    E --> F((Security Researcher))
-    
-    style F fill:#f00,stroke:#333,stroke-width:4px,color:#fff
-    style C fill:#f96,stroke:#333,stroke-width:2px
+### 💻 System Information
+```text
+[ LOGIN_SUCCESSFUL ]
+[ SESSION_ID: 0x7F83A2 ]
+[ ROLE: SECURITY_RESEARCHER ]
+[ STATUS: SCANNING_FOR_VULNERABILITIES... ]
 ```
 
 ---
@@ -53,7 +36,7 @@ flowchart LR
 
 ---
 
-### 💻 About Me
+### 📂 About Me
 ✨ Passionate about finding and fixing security flaws.
 📚 Currently learning **Cyber Security, Bug Bounty, Networking, Linux**, and **ESP32-based** security projects.
 🎯 Goal: Become a skilled security researcher and build impactful, security-focused tech products.
@@ -92,7 +75,7 @@ flowchart LR
 <div align="center">
   <pre>
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  [ TERMINAL SESSION TERMINATED. HAPPY HACKING. ]
+  [ SYSTEM_OVERRIDE_COMPLETE. HAPPY HACKING. ]
   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
   </pre>
 </div>
