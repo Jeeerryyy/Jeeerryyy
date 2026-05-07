@@ -66,10 +66,3 @@
 
 ---
 
-<div align="center">
-  <pre>
-  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  [ SYSTEM_OVERRIDE_COMPLETE. HAPPY HACKING. ]
-  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-  </pre>
-</div>
