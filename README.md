@@ -16,12 +16,32 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jeeerryyy&theme=onedark&no-frame=true&margin-w=15&column=4" alt="github-trophy" />
-  </a>
-</div>
+### 📂 SECURITY_DOSSIER: [JERRY_PROJECT_01]
+
+```yaml
+  IDENTIFIER: Jeeerryyy
+  STATUS: ACTIVE_EXPLORATION
+  CORE_FOCUS: Vulnerability Research & IoT Security
+  LOCATION: India [IN]
+  TOOLS_IN_USE: [Kali, Nmap, BurpSuite, Metasploit, Wireshark]
+  CURRENT_CLEARANCE: Bug Bounty Learner
+  FAVORITE_PAYLOAD: 127.0.0.1 🏴‍☠️
+```
+
+---
+
+### 🗺️ The Researcher Journey
+```mermaid
+flowchart LR
+    A[Tech Explorer] --> B(MERN Full Stack)
+    B --> C{Security Pivot}
+    C --> D[Cyber Security Enthusiast]
+    D --> E[Bug Bounty Hunter]
+    E --> F((Security Researcher))
+    
+    style F fill:#f00,stroke:#333,stroke-width:4px,color:#fff
+    style C fill:#f96,stroke:#333,stroke-width:2px
+```
 
 ---
 
@@ -40,7 +60,7 @@
 
 ---
 
-### 🛠️ What I'm working on
+### 🛠️ Featured Work
 - 🚗 **[Modern Drive](https://github.com/Jeeerryyy/Car-Rental-Modern-)**: A premium MERN-stack car rental platform with KYC and digital signatures.
 - 🛡️ **Cyber Security Research**: Exploring vulnerability assessment and bug bounty methodologies.
 - 📡 **ESP32 Security**: Developing IoT-focused security tools and network exploration scripts.
@@ -66,3 +86,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <pre>
+  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  [ TERMINAL SESSION TERMINATED. HAPPY HACKING. ]
+  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+  </pre>
+</div>
