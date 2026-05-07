@@ -17,8 +17,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Jeeerryyy
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
