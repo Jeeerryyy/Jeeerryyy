@@ -16,15 +16,6 @@
   </p>
 </div>
 
----
-
-### 💻 System Information
-```text
-[ LOGIN_SUCCESSFUL ]
-[ SESSION_ID: 0x7F83A2 ]
-[ ROLE: SECURITY_RESEARCHER ]
-[ STATUS: SCANNING_FOR_VULNERABILITIES... ]
-```
 
 ---
 
