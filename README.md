@@ -1,8 +1,6 @@
 # Hey 👋 I'm Jerry
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Jerry%20%7C%20Cyber%20Security&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%">
-  
   <p align="center">
     <strong>Cyber Security Enthusiast • Bug Bounty Learner • Tech Explorer from India</strong>
   </p>
@@ -19,7 +17,7 @@
 ### 🐍 The Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Jeeerryyy/Jeeerryyy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Jeeerryyy/Jeeerryyy/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
 </div>
 
 ---
@@ -38,21 +36,6 @@
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,kali,linux,git,github,vscode,postman,py,bash,arduino" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeeerryyy&show_icons=true&theme=transparent&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeerryyy&layout=compact&theme=transparent&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="170px" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeeerryyy&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
 
 ---
 
